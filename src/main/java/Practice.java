@@ -11,6 +11,7 @@ public class Practice {
 
         }
         PrintGreeting("Leila","Nika");
+        System.out.println("Leila");
     }
 
     public static void PrintGreeting(String ... names)
