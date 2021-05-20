@@ -13,6 +13,7 @@ public class Practice {
         PrintGreeting("Leila","Nika");
         System.out.println("Leila");
         System.out.println("Java");
+        System.out.println("Nika");
     }
 
     public static void PrintGreeting(String ... names)
