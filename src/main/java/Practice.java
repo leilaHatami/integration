@@ -14,6 +14,7 @@ public class Practice {
         System.out.println("Leila");
         System.out.println("Java");
         System.out.println("Nika");
+        System.out.println("Hello World New Branch");
     }
 
     public static void PrintGreeting(String ... names)
